@@ -1,2 +1,3 @@
 # web-page
-Basic HTML, JS, CSS
+Basic HTML and CSS
+
